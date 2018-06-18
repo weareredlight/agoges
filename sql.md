@@ -368,12 +368,12 @@ Let’s imagine we want to get a list of sites with their respective patients so
 ```json
 [
   {
-    site_name: "HUC",
-    patients: [ "Zé das Couves", "El Duderino" ]
+    "site_name": "HUC",
+    "patients": [ "Zé das Couves", "El Duderino" ]
   },
   {
-    site_name: "Givemeyourmoney Clinic",
-    patients: [ "Adolf Hitler", "David Hasselhoff", "Lady Gaga" ]
+    "site_name": "Givemeyourmoney Clinic",
+    "patients": [ "Adolf Hitler", "David Hasselhoff", "Lady Gaga" ]
   }
 ]
 ```
