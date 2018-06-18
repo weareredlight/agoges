@@ -9,3 +9,4 @@ This repo aims to share the knowledge teached in short company presentations abo
 # Agoges
 
 - [SQL](sql.md) by @tonygf
+- [Functional Programming in Javascript](fp_in_javascript.md) by @FranciscoMSM
