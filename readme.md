@@ -4,9 +4,9 @@
 
 # WeAreRedlight Agoges
 
-This repo aims to share the knowledge teached in short company presentations about single subjects.
+Let's share our in-company short tech presentations with the world!
 
-# Agoges
+# Agoges list
 
 - [SQL](sql.md) by @tonygf
 - [Functional Programming in Javascript](fp_in_javascript.md) by @FranciscoMSM
